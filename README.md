@@ -1,4 +1,7 @@
-# JSON Server Template
+# Paper Ark
+
+(Originally cloned from Flatiron json-server-template, see here for README 
+[https://github.com/learn-co-curriculum/json-server-template/blob/main/README.md])
 
 ## Setup
 
@@ -9,28 +12,6 @@ npm install
 ```
 
 ## Seeding Data
-
-To set up your database, update the `db/seeds.json` file to contain an object
-with a key pointing to an array of data, like this:
-
-```json
-{
-  "toys": [
-    {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
-    },
-    {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
-    }
-  ]
-}
-```
 
 Then, run `npm run seed` to copy data from the `db/seeds.json` file to the
 `db/db.json` file. `json-server` uses the `db.json` file to create your RESTful
@@ -48,13 +29,6 @@ To run your server in development mode, run:
 ```sh
 npm run dev
 ```
-
-While running in development mode, the server will re-load any time you make
-changes to the `db.json` file, so you can test our your seed data.
-
-While your server is running, you can make requests to
-[http://localhost:3000](http://localhost:3000). Check it out in the browser to
-make sure your server works!
 
 ## Deploying the Server
 
