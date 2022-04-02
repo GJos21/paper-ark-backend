@@ -16,7 +16,7 @@
       "venue": "",
       "coverImageFilename": "cover-120781.png",
       "hasPages": false,
-      "onLoan": true
+      "onLoan": false
     },
     {
       "id": 2,
@@ -861,7 +861,7 @@
       "size": "",
       "venue": "",
       "coverImageFilename": "cover-121552.png",
-      "hasPages": true,
+      "hasPages": false,
       "onLoan": false
     },
     {
@@ -1045,7 +1045,7 @@
       "onLoan": false
     },
     {
-      "id": 88,
+      "id": 59,
       "callNum": "121761",
       "material": "Book",
       "category": "Literature",
@@ -1063,7 +1063,7 @@
       "onLoan": false
     },
     {
-      "id": 89,
+      "id": 60,
       "callNum": "121762",
       "material": "Book",
       "category": "Greek Latin",
@@ -1081,7 +1081,7 @@
       "onLoan": false
     },
     {
-      "id": 90,
+      "id": 61,
       "callNum": "121790",
       "material": "Book",
       "category": "Greek Latin",
@@ -1099,7 +1099,7 @@
       "onLoan": false
     },
     {
-      "id": 91,
+      "id": 62,
       "callNum": "121832",
       "material": "Book",
       "category": "History",
@@ -1117,7 +1117,7 @@
       "onLoan": false
     },
     {
-      "id": 92,
+      "id": 63,
       "callNum": "121833",
       "material": "Book",
       "category": "Literature",
@@ -1135,7 +1135,7 @@
       "onLoan": false
     },
     {
-      "id": 93,
+      "id": 64,
       "callNum": "121835",
       "material": "Book",
       "category": "History",
@@ -1153,7 +1153,7 @@
       "onLoan": false
     },
     {
-      "id": 94,
+      "id": 65,
       "callNum": "121845",
       "material": "Book",
       "category": "History",
@@ -1171,7 +1171,7 @@
       "onLoan": false
     },
     {
-      "id": 95,
+      "id": 66,
       "callNum": "121847",
       "material": "Book",
       "category": "History",
@@ -1187,59 +1187,11 @@
       "coverImageFilename": "cover-121847.png",
       "hasPages": false,
       "onLoan": false
-    },
-    {
-      "material": "Book",
-      "category": "Literature",
-      "imageCount": 0,
-      "title": "Book title",
-      "author": "",
-      "year": null,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "",
-      "hasPages": false,
-      "onLoan": false,
-      "id": 96
-    },
-    {
-      "material": "Book",
-      "category": "Literature",
-      "imageCount": 0,
-      "title": "Map Title 2",
-      "author": "",
-      "year": null,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "",
-      "hasPages": false,
-      "onLoan": false,
-      "id": 97
-    },
-    {
-      "material": "Book",
-      "category": "Literature",
-      "imageCount": 0,
-      "title": "Book Title NEW",
-      "author": "",
-      "year": null,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "",
-      "hasPages": false,
-      "onLoan": false,
-      "id": 98
     }
   ],
   "event": [
     {
-      "id": 59,
+      "id": 1,
       "callNum": "121600",
       "material": "Event",
       "category": "Theatre",
@@ -1257,7 +1209,7 @@
       "onLoan": false
     },
     {
-      "id": 60,
+      "id": 2,
       "callNum": "121604",
       "material": "Event",
       "category": "Theatre",
@@ -1275,25 +1227,7 @@
       "onLoan": false
     },
     {
-      "id": 61,
-      "callNum": "121605",
-      "material": "Event",
-      "category": "Theatre",
-      "imageCount": 0,
-      "title": "Hobson's Choice ",
-      "author": "",
-      "year": 1977,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "Walnut Street Theatre",
-      "coverImageFilename": "cover-121605.png",
-      "hasPages": false,
-      "onLoan": false
-    },
-    {
-      "id": 62,
+      "id": 4,
       "callNum": "121610",
       "material": "Event",
       "category": "Theatre",
@@ -1311,115 +1245,7 @@
       "onLoan": false
     },
     {
-      "id": 63,
-      "callNum": "121611",
-      "material": "Event",
-      "category": "Music",
-      "imageCount": 0,
-      "title": "Peter Nero and the Philly Pops",
-      "author": "",
-      "year": 1993,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "Academy of Music",
-      "coverImageFilename": "cover-121611.png",
-      "hasPages": false,
-      "onLoan": false
-    },
-    {
-      "id": 64,
-      "callNum": "121613",
-      "material": "Event",
-      "category": "Theatre",
-      "imageCount": 0,
-      "title": "Kiss me Kate",
-      "author": "",
-      "year": 2000,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "Martin Beck Theatre",
-      "coverImageFilename": "cover-121613.png",
-      "hasPages": false,
-      "onLoan": false
-    },
-    {
-      "id": 65,
-      "callNum": "121621",
-      "material": "Event",
-      "category": "Theatre",
-      "imageCount": 0,
-      "title": "A Chorus Line",
-      "author": "",
-      "year": 1977,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "Forrest Theatre",
-      "coverImageFilename": "cover-121621.png",
-      "hasPages": false,
-      "onLoan": false
-    },
-    {
-      "id": 66,
-      "callNum": "121623",
-      "material": "Event",
-      "category": "Theatre",
-      "imageCount": 0,
-      "title": "Evita",
-      "author": "",
-      "year": 1982,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "Forrest Theatre",
-      "coverImageFilename": "cover-121623.png",
-      "hasPages": false,
-      "onLoan": false
-    },
-    {
-      "id": 67,
-      "callNum": "121640",
-      "material": "Event",
-      "category": "Theatre",
-      "imageCount": 0,
-      "title": "The King and I",
-      "author": "",
-      "year": 1977,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "Uris Theatre",
-      "coverImageFilename": "cover-121640.png",
-      "hasPages": true,
-      "onLoan": false
-    },
-    {
-      "id": 68,
-      "callNum": "121648",
-      "material": "Event",
-      "category": "Theatre",
-      "imageCount": 0,
-      "title": "A Streetcar Named Desire",
-      "author": "",
-      "year": 1992,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "Ethel Barrymore Theatre",
-      "coverImageFilename": "cover-121648.png",
-      "hasPages": false,
-      "onLoan": false
-    },
-    {
-      "id": 69,
+      "id": 11,
       "callNum": "121650",
       "material": "Event",
       "category": "Theatre",
@@ -1437,7 +1263,7 @@
       "onLoan": false
     },
     {
-      "id": 70,
+      "id": 12,
       "callNum": "121682",
       "material": "Event",
       "category": "Theatre",
@@ -1455,97 +1281,7 @@
       "onLoan": false
     },
     {
-      "id": 71,
-      "callNum": "121683",
-      "material": "Event",
-      "category": "Theatre",
-      "imageCount": 0,
-      "title": "Do Black Patent Leather Shoes Really Reflect Up?",
-      "author": "",
-      "year": 1982,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "Walnut Street Theatre",
-      "coverImageFilename": "cover-121683.png",
-      "hasPages": false,
-      "onLoan": false
-    },
-    {
-      "id": 101,
-      "callNum": "122941",
-      "material": "Event",
-      "category": "Theatre",
-      "imageCount": 0,
-      "title": "The Crucible",
-      "author": "",
-      "year": 1991,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "The Belasco",
-      "coverImageFilename": "cover-122941.png",
-      "hasPages": false,
-      "onLoan": false
-    },
-    {
-      "id": 102,
-      "callNum": "122949",
-      "material": "Event",
-      "category": "Theatre",
-      "imageCount": 0,
-      "title": "Cat On a Hot Tin Roof",
-      "author": "",
-      "year": 1990,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "Eugene O'Neill Theatre",
-      "coverImageFilename": "cover-122949.png",
-      "hasPages": false,
-      "onLoan": false
-    },
-    {
-      "id": 103,
-      "callNum": "122950",
-      "material": "Event",
-      "category": "Theatre",
-      "imageCount": 0,
-      "title": "Chicago",
-      "author": "",
-      "year": 1997,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "Shubert Theatre",
-      "coverImageFilename": "cover-122950.png",
-      "hasPages": false,
-      "onLoan": false
-    },
-    {
-      "id": 104,
-      "callNum": "122958",
-      "material": "Event",
-      "category": "Theatre",
-      "imageCount": 0,
-      "title": "Angels in America",
-      "author": "",
-      "year": 1994,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "Walter Kerr Theatre",
-      "coverImageFilename": "cover-122958.png",
-      "hasPages": false,
-      "onLoan": false
-    },
-    {
-      "id": 105,
+      "id": 18,
       "callNum": "122960",
       "material": "Event",
       "category": "Theatre",
@@ -1563,7 +1299,7 @@
       "onLoan": false
     },
     {
-      "id": 106,
+      "id": 19,
       "callNum": "122965",
       "material": "Event",
       "category": "Music",
@@ -1581,7 +1317,7 @@
       "onLoan": false
     },
     {
-      "id": 107,
+      "id": 20,
       "callNum": "122995",
       "material": "Event",
       "category": "Music",
@@ -1597,61 +1333,11 @@
       "coverImageFilename": "cover-122995.png",
       "hasPages": false,
       "onLoan": false
-    },
-    {
-      "material": "Event",
-      "category": "Literature",
-      "imageCount": 0,
-      "title": "Event Title",
-      "author": "",
-      "year": null,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "",
-      "hasPages": false,
-      "onLoan": false,
-      "id": 108
-    },
-    {
-      "material": "Event",
-      "category": "Literature",
-      "imageCount": 0,
-      "title": "Event Title 2",
-      "author": "",
-      "year": null,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "",
-      "hasPages": false,
-      "onLoan": false,
-      "id": 109
     }
   ],
   "map": [
     {
-      "id": 72,
-      "callNum": "121711",
-      "material": "Map",
-      "category": "Road",
-      "imageCount": 2,
-      "title": "Nice, Antibes, Cannes",
-      "author": "",
-      "year": 1988,
-      "publisher": "Avis",
-      "isbn": "",
-      "geography": "Europe",
-      "size": "12 x 16 in.",
-      "venue": "",
-      "coverImageFilename": "cover-121711.png",
-      "hasPages": false,
-      "onLoan": true
-    },
-    {
-      "id": 73,
+      "id": 2,
       "callNum": "121712",
       "material": "Map",
       "category": "Tourist",
@@ -1669,7 +1355,7 @@
       "onLoan": false
     },
     {
-      "id": 74,
+      "id": 3,
       "callNum": "121713",
       "material": "Map",
       "category": "Land",
@@ -1687,7 +1373,7 @@
       "onLoan": false
     },
     {
-      "id": 75,
+      "id": 4,
       "callNum": "121714",
       "material": "Map",
       "category": "Road",
@@ -1705,7 +1391,7 @@
       "onLoan": false
     },
     {
-      "id": 76,
+      "id": 5,
       "callNum": "121717",
       "material": "Map",
       "category": "Road",
@@ -1723,25 +1409,7 @@
       "onLoan": false
     },
     {
-      "id": 77,
-      "callNum": "121721",
-      "material": "Map",
-      "category": "Road",
-      "imageCount": 2,
-      "title": "Mapa de Paradores, Spain",
-      "author": "",
-      "year": 1989,
-      "publisher": "Difusion Cartografica",
-      "isbn": "",
-      "geography": "Europe",
-      "size": "19 x 28 in.",
-      "venue": "",
-      "coverImageFilename": "",
-      "hasPages": false,
-      "onLoan": false
-    },
-    {
-      "id": 78,
+      "id": 7,
       "callNum": "121722",
       "material": "Map",
       "category": "Tourist",
@@ -1759,7 +1427,7 @@
       "onLoan": false
     },
     {
-      "id": 79,
+      "id": 8,
       "callNum": "121726",
       "material": "Map",
       "category": "Tourist",
@@ -1774,10 +1442,10 @@
       "venue": "",
       "coverImageFilename": "",
       "hasPages": false,
-      "onLoan": true
+      "onLoan": false
     },
     {
-      "id": 80,
+      "id": 9,
       "callNum": "121728",
       "material": "Map",
       "category": "Tourist",
@@ -1795,7 +1463,7 @@
       "onLoan": false
     },
     {
-      "id": 81,
+      "id": 10,
       "callNum": "121731",
       "material": "Map",
       "category": "Tourist",
@@ -1813,7 +1481,7 @@
       "onLoan": false
     },
     {
-      "id": 82,
+      "id": 11,
       "callNum": "121735",
       "material": "Map",
       "category": "Land",
@@ -1831,7 +1499,7 @@
       "onLoan": false
     },
     {
-      "id": 83,
+      "id": 12,
       "callNum": "121736",
       "material": "Map",
       "category": "Land",
@@ -1849,7 +1517,7 @@
       "onLoan": false
     },
     {
-      "id": 84,
+      "id": 13,
       "callNum": "121739",
       "material": "Map",
       "category": "Land",
@@ -1867,7 +1535,7 @@
       "onLoan": false
     },
     {
-      "id": 85,
+      "id": 14,
       "callNum": "121746",
       "material": "Map",
       "category": "Land",
@@ -1885,7 +1553,7 @@
       "onLoan": false
     },
     {
-      "id": 86,
+      "id": 15,
       "callNum": "121750",
       "material": "Map",
       "category": "Tourist",
@@ -1903,7 +1571,7 @@
       "onLoan": false
     },
     {
-      "id": 87,
+      "id": 16,
       "callNum": "121752",
       "material": "Map",
       "category": "Land",
@@ -1921,7 +1589,7 @@
       "onLoan": false
     },
     {
-      "id": 96,
+      "id": 17,
       "callNum": "121988",
       "material": "Map",
       "category": "Road",
@@ -1939,7 +1607,7 @@
       "onLoan": false
     },
     {
-      "id": 97,
+      "id": 18,
       "callNum": "121989",
       "material": "Map",
       "category": "Road",
@@ -1957,7 +1625,7 @@
       "onLoan": false
     },
     {
-      "id": 98,
+      "id": 19,
       "callNum": "121991",
       "material": "Map",
       "category": "Road",
@@ -1975,7 +1643,7 @@
       "onLoan": false
     },
     {
-      "id": 99,
+      "id": 20,
       "callNum": "121994",
       "material": "Map",
       "category": "Road",
@@ -1991,56 +1659,6 @@
       "coverImageFilename": "cover-121994.png",
       "hasPages": false,
       "onLoan": false
-    },
-    {
-      "id": 100,
-      "callNum": "121996",
-      "material": "Map",
-      "category": "Road",
-      "imageCount": 1,
-      "title": "North Carolina Highway Map 1977-78",
-      "author": "",
-      "year": 1977,
-      "publisher": "North Carolina Highway Patrol ",
-      "isbn": "",
-      "geography": "USA",
-      "size": "22 x 44 in.",
-      "venue": "",
-      "coverImageFilename": "cover-121996.png",
-      "hasPages": false,
-      "onLoan": false
-    },
-    {
-      "material": "Map",
-      "category": "Literature",
-      "imageCount": 0,
-      "title": "Map Title",
-      "author": "",
-      "year": null,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "",
-      "hasPages": false,
-      "onLoan": false,
-      "id": 101
-    },
-    {
-      "material": "Map",
-      "category": "Literature",
-      "imageCount": 0,
-      "title": "Map Title NEW",
-      "author": "",
-      "year": null,
-      "publisher": "",
-      "isbn": "",
-      "geography": "",
-      "size": "",
-      "venue": "",
-      "hasPages": false,
-      "onLoan": false,
-      "id": 102
     }
   ]
 }
