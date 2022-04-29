@@ -1172,7 +1172,7 @@
       "venue": "",
       "coverImageFilename": "cover-121736.png",
       "hasPages": false,
-      "onLoan": false
+      "onLoan": true
     },
     {
       "id": 13,
